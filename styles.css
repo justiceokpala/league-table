@@ -1,0 +1,22 @@
+table{
+    border-collapse: collapse;
+}
+
+table tr th, td{
+    border-bottom: 1px solid;
+    padding: 3px 5px;
+}
+th{
+    text-align: center;
+}
+.pink{
+    background-color: pink;
+}
+.blue{
+    background-color: rgb(79, 79, 180);
+}
+
+      .red{
+     background-color: rgb(219, 91, 91);
+      }
+  
